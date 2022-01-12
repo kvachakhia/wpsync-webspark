@@ -1,0 +1,26 @@
+[
+    {
+        "sku": "8163da8a-7730-4009-b9bb-6abefc171a21",
+        "name": "Fish - Bones1",
+        "description": "Railway accident of unspecified nature injuring unspecified person",
+        "price": "$60.68",
+        "picture": "http://dummyimage.com/230x148.jpg/cc0000/ffffff",
+        "in_stock": 240
+    },
+    {
+        "sku": "32d3355e-6e49-407c-ba46-b565ab3a97d9",
+        "name": "Soup - Cream Of Broccoli, Dry",
+        "description": "Slowing of urinary stream",
+        "price": "$11.03",
+        "picture": "http://dummyimage.com/241x139.png/dddddd/000000",
+        "in_stock": 0
+    },
+    {
+        "sku": "bfb76c3f-a732-4ea5-a561-64450f19a1f2",
+        "name": "Cheese Cheddar",
+        "description": "Stress fracture of femoral neck",
+        "price": "$444.72",
+        "picture": "http://dummyimage.com/152x127.bmp/dddddd/000000",
+        "in_stock": 809
+    }
+]
